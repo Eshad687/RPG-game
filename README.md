@@ -1,2 +1,2 @@
 # RPG-game
-An RPG game using C# and Unity
+An RPG game made with C# and Unity
